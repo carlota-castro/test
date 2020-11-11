@@ -1,3 +1,3 @@
 # test
-We could do that
+We could do that\n
 yes
