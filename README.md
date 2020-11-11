@@ -8,7 +8,7 @@ The data we will analyse can be found on: https://www.gapminder.org/data/ (Econo
 *	Analyse how these historical events (eg. economic crises) had an impact on the GDP total, yearly growth <br/>
 *	Geospatial analysis (where did the historical events had the most impact?) <br/>
 *	Compare the GPD total, yearly growth per year in each continent <br/>
-  * Analyse countries that have experienced the highest increases <br/>
-  * Analyse countries that have experienced the lowest increases  <br/>
+    * Analyse countries that have experienced the highest increases <br/>
+    * Analyse countries that have experienced the lowest increases  <br/>
 *	Augment the data and include additional factors such as GDP/capita, GDP/employee, Income…
 
